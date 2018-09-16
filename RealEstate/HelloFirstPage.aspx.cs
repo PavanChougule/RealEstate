@@ -7,6 +7,6 @@ namespace RealEstate
 
     public partial class HelloFirstPage : System.Web.UI.Page
     {
-
+        string hello = String.Empty;
     }
 }
